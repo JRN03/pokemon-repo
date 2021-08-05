@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AggieDraft</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Charchimp1.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Charchimp1.png</location>
+		</link>
+		<link>
+			<name>src/Charchimp2.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Charchimp2.png</location>
+		</link>
+		<link>
+			<name>src/Finality1.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Finality1.png</location>
+		</link>
+		<link>
+			<name>src/Finality2.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Finality2.png</location>
+		</link>
+		<link>
+			<name>src/Iceguin1.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Iceguin1.png</location>
+		</link>
+		<link>
+			<name>src/Iceguin2.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Iceguin2.png</location>
+		</link>
+		<link>
+			<name>src/Medinasaur1.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Medinasaur1.png</location>
+		</link>
+		<link>
+			<name>src/Medinasaur2.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Medinasaur2.png</location>
+		</link>
+		<link>
+			<name>src/Pegasus1.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Pegasus1.png</location>
+		</link>
+		<link>
+			<name>src/Pegasus2.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Pegasus2.png</location>
+		</link>
+		<link>
+			<name>src/Penisaur1.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Penisaur1.png</location>
+		</link>
+		<link>
+			<name>src/Penisaur2.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/Penisaur2.png</location>
+		</link>
+		<link>
+			<name>src/toggle.png</name>
+			<type>1</type>
+			<location>/Users/jonathannguyen/Documents/Eclipse Codes/AggieDraft/Images/toggle.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
