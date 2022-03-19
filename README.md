@@ -7,4 +7,5 @@ Pull the repository to local device. When importing via Eclipse, select file -> 
 Select the pokemon you wish to use in the console and a corresponding gui will be created.
 
 # Custon Pokemon
-To create custom pokemon, go into the main class and in the main function, add a new Aggie()
+To create custom pokemon, create a new class that implements the Aggie interface. Then go into the main class function and add 
+new *name*(new Sprite("*sprite*"),"*display name*",int health,int speed,int damage,int defense)
