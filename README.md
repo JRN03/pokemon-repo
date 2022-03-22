@@ -1,6 +1,8 @@
 # pokemon-repo
 Mock Pokemon battle using JAVA.
 Twist on classic pokemon games using my teacher's face in place of original images.
+Created using Java's swing libraries and JFrames. In the future, I could likely implememt a more 
+efficient method via LibGDX or OpenGL.
 
 # Import
 Pull the repository to local device. When importing via Eclipse, select file -> import -> project.
